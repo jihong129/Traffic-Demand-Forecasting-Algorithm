@@ -7,8 +7,11 @@
 결론 : 강동구, 강서구, 송파구에 비교적 더 많은 버스 노선 추가가 필요할 것으로 예상한다.
 
 
-![image](https://github.com/user-attachments/assets/9e626986-7c90-4bb0-8446-3918bd56434c)
-![image](https://github.com/user-attachments/assets/2fa7bd5d-ae09-4b8e-b911-3024d7f6e6f8)
-![image](https://github.com/user-attachments/assets/b179e170-dc4b-4eb9-b0d1-9cac1d96809f)
+![image](https://github.com/user-attachments/assets/92274a4e-86dc-4009-9ee6-477064fa57d3)
+![image](https://github.com/user-attachments/assets/4866f321-c1d3-4245-926e-c9f8a0d742c3)
+![image](https://github.com/user-attachments/assets/d7d2c3ac-b1e9-4cdc-b45f-845d5047abab)
+
+
+
 
 
